@@ -1,0 +1,16 @@
+[
+  {
+    "customer": "Ada Nguyen",
+    "plan": "hvac-season",
+    "phone": "573-555-0142",
+    "address": "14 Oak St, Columbia MO",
+    "job": "FQ-1044"
+  },
+  {
+    "customer": "Bill Ortiz",
+    "plan": "plumb-annual",
+    "phone": "573-555-0190",
+    "address": "88 Elm Ave, Columbia MO",
+    "job": "FQ-1102"
+  }
+]
